@@ -1,0 +1,17 @@
+{
+  "s3": {
+    "stage": {
+      "bucket": "projects-staging.seattletimes.com",
+      "path": ""
+    },
+    "live": {
+      "bucket": "projects.seattletimes.com",
+      "path": "/2018/thanksgiving-banner-2018"
+    }
+  },
+  "title": "Happy Thanksgiving 2018",
+  "description": "An animated celbration of Thanksgiving",
+  "standout": false,
+  "embedded": true,
+  "production": true
+}
